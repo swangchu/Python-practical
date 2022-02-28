@@ -1,5 +1,5 @@
 # Python-practical
-This repository contents projects in Python for the beginners.
+List of practical to help the beginners in learning python.
 
 **List of projects to be implemented using Turtle Module** 
 
