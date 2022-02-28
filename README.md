@@ -40,3 +40,8 @@ List of practical to help the beginners in learning python.
      - **begin_fill**  : https://docs.python.org/3/library/turtle.html#turtle.begin_fill
      - **end_fill** : https://docs.python.org/3/library/turtle.html#turtle.end_fill
      - **setposition** : https://docs.python.org/3/library/turtle.html#turtle.setposition
+7. Write a program using Turtle module to generate series of shapes in line.Begin with a triangle then pentagon, hexagon, heptagon, octagon, nonagon and decagon.
+
+      **Turtle Methods which are not covered before**
+     - **circle**  : https://docs.python.org/3/library/turtle.html#turtle.circle
+   
