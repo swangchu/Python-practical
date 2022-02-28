@@ -11,19 +11,19 @@ This repository contents projects in Python for the beginners.
    
 2.  Write a program using Turtle module to generate five dash lines starting 400 pixels from left of the center of the canvas and each dash to be 100 pixels and they are 100 pixels apath.
     
-    **Turtle Methods Used which are not covered before**
+    **Turtle Methods which are not covered before**
      - **penup**   : https://docs.python.org/3/library/turtle.html#turtle.penup
      - **pendown** : https://docs.python.org/3/library/turtle.html#turtle.pendown
 
 3. Write a program using Turtle module to generate a square of 100 pixels
    
-   **Turtle Methods Used which are not covered before**
+   **Turtle Methods which are not covered before**
      - **left**  : https://docs.python.org/3/library/turtle.html#turtle.left
      - **right** : https://docs.python.org/3/library/turtle.html#turtle.right
      
  4. Write a program using Turtle module to generate a chain of 4 circles of radius 25 pixels.The circles just touches eachother and their outline to be of black,    yellow, red, green and blue.
     
-    **Turtle Methods Used which are not covered before**
+    **Turtle Methods which are not covered before**
      - **color**     : https://docs.python.org/3/library/turtle.html#turtle.color
      - **pencolor**  : https://docs.python.org/3/library/turtle.html#turtle.pencolor
      - **fillcolor** : https://docs.python.org/3/library/turtle.html#turtle.fillcolor
