@@ -27,5 +27,9 @@ This repository contents projects in Python for the beginners.
      - **color**     : https://docs.python.org/3/library/turtle.html#turtle.color
      - **pencolor**  : https://docs.python.org/3/library/turtle.html#turtle.pencolor
      - **fillcolor** : https://docs.python.org/3/library/turtle.html#turtle.fillcolor
-      
-        
+ 
+ 5. Write a program using Turtle module to generate a hexagon.Each side of the hexagon should of different color and thinkcer than then default size.Draw the hexagon with speed of 5.
+ 
+     **Turtle Methods which are not covered before**
+     - **pensize**  : https://docs.python.org/3/library/turtle.html#turtle.pensize
+     - **speed** : https://docs.python.org/3/library/turtle.html#turtle.speed
