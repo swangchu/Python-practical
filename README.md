@@ -33,3 +33,10 @@ This repository contents projects in Python for the beginners.
      **Turtle Methods which are not covered before**
      - **pensize**  : https://docs.python.org/3/library/turtle.html#turtle.pensize
      - **speed** : https://docs.python.org/3/library/turtle.html#turtle.speed
+
+6. Write a program using Turtle module to generate two concentric circles.The inner circle filled with red color while outer circle is without color.
+   
+      **Turtle Methods which are not covered before**
+     - **begin_fill**  : https://docs.python.org/3/library/turtle.html#turtle.begin_fill
+     - **end_fill** : https://docs.python.org/3/library/turtle.html#turtle.end_fill
+     - **setposition** : https://docs.python.org/3/library/turtle.html#turtle.setposition
