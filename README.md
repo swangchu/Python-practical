@@ -47,4 +47,7 @@ List of practical to help the beginners in learning python.
    
 8.  Write a program using Turtle module to generate four circles.These circles just touches eachother and the center of the canvas is the center of all the circles.
 9.  Write a program using Turtle module to generate a square swirl.
-10.  
+10. Write a program using Turtle module to generate a star with dark screen background.
+
+      **Turtle Methods which are not covered before**
+     - **bgcolor**  : https://docs.python.org/3/library/turtle.html#turtle.bgcolor
