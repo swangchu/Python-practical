@@ -51,3 +51,9 @@ List of practical to help the beginners in learning python.
 
       **Turtle Methods which are not covered before**
      - **bgcolor**  : https://docs.python.org/3/library/turtle.html#turtle.bgcolor
+     
+11. Write a program using Turtle to generate a square with one turtle only on every corner of the square.
+
+      **Turtle Methods which are not covered before**
+     - **stamp**  : https://docs.python.org/3/library/turtle.html#turtle.stamp
+     - **hideturtle** : https://docs.python.org/3/library/turtle.html#turtle.hideturtle
