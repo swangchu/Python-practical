@@ -65,4 +65,4 @@ List of practical to help the beginners in learning python.
      - **goto** : https://docs.python.org/3/library/turtle.html#turtle.goto
      - **backward** : https://docs.python.org/3/library/turtle.html#turtle.backward
      - **pencolor** : https://docs.python.org/3/library/turtle.html#turtle.pencolor
-14. 
+
