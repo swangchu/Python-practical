@@ -57,3 +57,12 @@ List of practical to help the beginners in learning python.
       **Turtle Methods which are not covered before**
      - **stamp**  : https://docs.python.org/3/library/turtle.html#turtle.stamp
      - **hideturtle** : https://docs.python.org/3/library/turtle.html#turtle.hideturtle
+
+12. Write a program using Turtle to generate a sun with four rays around it.
+      
+      **Turtle Methods which are not covered before**
+     - **dot**  : https://docs.python.org/3/library/turtle.html#turtle.dot
+     - **goto** : https://docs.python.org/3/library/turtle.html#turtle.goto
+     - **backward** : https://docs.python.org/3/library/turtle.html#turtle.backward
+     - **pencolor** : https://docs.python.org/3/library/turtle.html#turtle.pencolor
+14. 
